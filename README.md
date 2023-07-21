@@ -20,4 +20,6 @@ gizmo.rename.launch()
 # Create shelf
 gizmo.create_shelf()
 ```
-![rename_ui.png](media/rename_ui.png) [Watch the Video](media/rename.webm)
+<p align="center">
+  <img src="media/rename.gif" alt="animated" />
+</p>
