@@ -6,8 +6,8 @@ passion projects. I've decided to sort through my old work and create a suite of
 hosting it on GitHub so other people can use my tools too, I enjoy tool development so if you do use my tools then 
 please leave feedback.
 
-Download the repository and add it to the scripts folder for your maya version, you can launch from command line or 
-create a shelf for future use.
+Download the repository and add it to the scripts folder for your maya version, make sure the folder name is just 'gizmo'.
+You can launch from command line or create a shelf for future use.
 
 ```
 import gizmo
