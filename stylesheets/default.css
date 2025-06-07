@@ -1,0 +1,8 @@
+QPushButton {background-color: orange; color: black; font-size: 8pt; font-weight: bold;}
+QPushButton:pressed {background-color: 	#FF7417; color: black; font-size: 8pt; font-weight: bold;}
+QPushButton:hover {background-color: #FFBF00; color: black; font-size: 8pt; font-weight: bold;}
+
+QGroupBox {border: 2px solid grey; border-radius: 5px; margin-top: 3ex;}
+QGroupBox:title {subcontrol-position: top margin; padding: -15px 1px 0 1px;}
+
+QStatusBar {color: orange;}
